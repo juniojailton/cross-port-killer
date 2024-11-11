@@ -54,4 +54,4 @@ On **Mac**, It comes with the OS by default so nothing to worry.
 
 ## License 
 
-[MIT](LICENSE) © [Rafael Milewski](https://rafael-milewski.com?github=readme)
+[MIT](LICENSE)
